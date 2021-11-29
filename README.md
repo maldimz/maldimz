@@ -22,7 +22,12 @@ Hello I'm Akhmal Dimas Pratama. I'm student of Informatics UPN "Veteran" Yogyaka
 - 🔭 I’m currently study at UPN "Veteran" Yogyakarta
 - 🌱 I’m currently learning Android and Web
 - 👯 I’m looking to collaborate on FPproject
-- 📫 How to reach me: pratamadimas03@gmail.com
+
+## How to reach me
+<p align="center">
+ <a href="https://www.linkedin.com/in/maldimz/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px;margin-right: 20px"></a>
+ <a href="mailto:pratamadimas03@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+</p>
 
 -------------------------------------------------------------------------------------------------------------------------
 <h1>My Stats</h1>
