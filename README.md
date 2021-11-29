@@ -25,7 +25,8 @@ Hello I'm Akhmal Dimas Pratama. I'm student of Informatics UPN "Veteran" Yogyaka
 - 📫 How to reach me: pratamadimas03@gmail.com
 
 -------------------------------------------------------------------------------------------------------------------------
-#Stats
+<h1>My Stats</h1>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=maldimz&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maldimz&theme=tokyonight)
 
