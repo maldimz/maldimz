@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 
 <h1> Hi there 👋🏼 </h1>
 
-**Akhmal Dimas Pratama** | **Maldimz** | **📍 Yogyakarta, Indonesia** <br>
-![Profile View](https://komarev.com/ghpvc/?username=maldimz&color=red)
+**Akhmal Dimas Pratama** | **Maldimz** | **📍 Yogyakarta, Indonesia** <br><br>
+![Profile View](https://komarev.com/ghpvc/?username=maldimz&color=red) <br>
+-------------------------------------------------------------------------------------------------------------------------
 
 Hello I'm Akhmal Dimas Pratama. I'm student of Informatics UPN "Veteran" Yogyakarta.
 
@@ -23,7 +24,9 @@ Hello I'm Akhmal Dimas Pratama. I'm student of Informatics UPN "Veteran" Yogyaka
 - 👯 I’m looking to collaborate on FPproject
 - 📫 How to reach me: pratamadimas03@gmail.com
 
-
+-------------------------------------------------------------------------------------------------------------------------
+#Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=maldimz&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maldimz&theme=tokyonight)
 
 
