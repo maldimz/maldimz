@@ -33,7 +33,6 @@ Hello I'm Akhmal Dimas Pratama. I'm student of Informatics UPN "Veteran" Yogyaka
 <h1>My Stats</h1>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=maldimz&show_icons=true&theme=tokyonight) <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maldimz&theme=tokyonight)
 
 
 **Thank you** 🙏🏼
