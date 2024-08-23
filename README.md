@@ -19,9 +19,7 @@ Here are some ideas to get you started:
 
 Hello I'm Akhmal Dimas Pratama. I'm student of Informatics UPN "Veteran" Yogyakarta.
 
-- 🔭 I’m currently study at UPN "Veteran" Yogyakarta
-- 🌱 I’m currently learning Android and Web
-- 👯 I’m looking to collaborate on FPproject
+- 🌱 I’m currently working at Techave.dev
 
 ## How to reach me
 <p align="center">
